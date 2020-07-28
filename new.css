@@ -1,0 +1,55 @@
+
+body {
+	background-color: #d2b48c;
+}
+#heading
+{
+	padding: 20px;
+	text-align:center;
+}
+#heading span
+{
+	font-size: 50px;
+	text-decoration: underline overline;
+}
+
+.dishes
+{
+	list-style-type:upper-roman;
+    margin-left: 70px;	
+	padding: 20px;
+	font-family: 'Trade Winds';
+}
+article
+{
+	text-align: center;
+	background-color: pink;
+	font-size: 20px;
+}
+article span
+{
+	color:brown;
+	font-style: italic;
+	font-family: 'sofia';
+	
+}
+
+#para 
+{
+	color:blue;
+	font-style: normal;
+	text-decoration: underline;
+}
+
+.recipe
+{
+	padding:20px;
+	margin-left:50px;
+	margin-bottom:20px;
+	
+}
+	
+.first
+{
+	color:red;
+}
